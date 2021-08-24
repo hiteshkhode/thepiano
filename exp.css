@@ -48,6 +48,11 @@ body{
     height: 200px;
     background-color: black;
 }
+.blackkey:active{
+    border-style: solid;
+    border-color: red;
+}
 .whitekey:active{
-    background-color: rgb(190, 190, 190);
+    background-color: rgb(155, 57, 57);
+    border-color: red;
 }
